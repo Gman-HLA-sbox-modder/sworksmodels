@@ -1,7 +1,7 @@
 {
   "Title": "s\u0026works custom assets",
   "Type": "content",
-  "Org": "local",
+  "Org": "mdlresrc",
   "Ident": "custom_assets",
   "Schema": 1,
   "HasAssets": true,
